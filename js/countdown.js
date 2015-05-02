@@ -1,5 +1,5 @@
 var defaultOptions = {
-  date: "May 1, 2015 15:03:25",
+  date: "May 2, 2015 12:23:25",
   refresh: 1000,
   offset: 0,
   onEnd: function() {
